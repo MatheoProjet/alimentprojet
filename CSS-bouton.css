@@ -1,0 +1,55 @@
+.btn_retour {
+text-decoration: none;
+padding: 10px;
+font-family: arial;
+font-size: 1em;
+color: #FFFFFF;
+background-color: #800000;
+border-radius: 10px;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+}
+.btn_ajouter {
+text-decoration: none;
+padding: 10px;
+font-family: arial;
+font-size: 1em;
+color: #FFFFFF;
+background-color: #660033;
+border-radius: 10px;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+}
+.btn {
+text-decoration: none;
+padding: 10px;
+font-family: arial;
+font-size: 1em;
+color: #FFFFFF;
+background-color: #006666;
+border-radius: 10px;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+}
+.btn2 {
+text-decoration: none;
+padding: 10px;
+font-family: arial;
+font-size: 1em;
+color: #FFFFFF;
+background-color: #cc9900;
+border-radius: 10px;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+}
+.btn3 {
+text-decoration: none;
+padding: 10px;
+font-family: arial;
+font-size: 1em;
+color: #FFFFFF;
+background-color:  #641e16;
+border-radius: 10px;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+}

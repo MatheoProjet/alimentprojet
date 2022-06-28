@@ -1,0 +1,30 @@
+body {
+	background-image: url(../images/background.jpg);
+}
+
+#Global #gauche {
+    float:left;
+    margin-left: 5%;
+}
+#Global #milieu {
+	float: left;
+    margin-left: 15%;
+}
+#Global #droite {
+	float: right;
+    margin-right: 5%;
+}
+#bouton-vert {
+  text-decoration: none;
+  border-radius: 5px;
+  background: #A8C80F;
+  text-align: center;
+  cursor: pointer;
+  font-size: 20px;
+  width: 100%;
+  height: 50px;
+  padding: 10px;
+  color: #fff;
+  border: 0;
+  outline:0;
+}
